@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/personal-web/static/css/main.81f14e7d.css",
+    "main.js": "/personal-web/static/js/main.b9054af9.js",
+    "static/js/787.5d2b1d77.chunk.js": "/personal-web/static/js/787.5d2b1d77.chunk.js",
+    "static/media/Generaciones de las Computadoras(720P_HD).mp4": "/personal-web/static/media/Generaciones de las Computadoras(720P_HD).1406447b519c9e10f3ab.mp4",
+    "static/media/meter4.jpg": "/personal-web/static/media/meter4.3c7678eddf2a2affaa4e.jpg",
+    "static/media/meter1.jpg": "/personal-web/static/media/meter1.e6ea9bdc8cf26cb54d89.jpg",
+    "static/media/meter2.jpg": "/personal-web/static/media/meter2.eaa793ec6f951fe35864.jpg",
+    "static/media/meter5.jpg": "/personal-web/static/media/meter5.bb21e88ee9fea2b3445e.jpg",
+    "static/media/gen3.jpg": "/personal-web/static/media/gen3.a71583b04cb8deafc767.jpg",
+    "static/media/gen2.jpg": "/personal-web/static/media/gen2.9d57e4c00b31389cb333.jpg",
+    "static/media/compu1.jpg": "/personal-web/static/media/compu1.74d7f48534bd81160ac0.jpg",
+    "static/media/gen5.jpg": "/personal-web/static/media/gen5.36304d183ee8a43fb3f9.jpg",
+    "static/media/logo.png": "/personal-web/static/media/logo.96314bf28d1062d6a068.png",
+    "static/media/gen4.jpg": "/personal-web/static/media/gen4.c9fca411d3c8d58f1cfd.jpg",
+    "static/media/CentraNo1-Book.ttf": "/personal-web/static/media/CentraNo1-Book.95a09118ec29cbee7f7b.ttf",
+    "static/media/CentraMonoTRIAL-Bold.ttf": "/personal-web/static/media/CentraMonoTRIAL-Bold.ef75e4dd7fba7e56f8d3.ttf",
+    "static/media/CentraMonoTRIAL-Medium.ttf": "/personal-web/static/media/CentraMonoTRIAL-Medium.f12901b3e617b9210a92.ttf",
+    "static/media/revicons.eot": "/personal-web/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/personal-web/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/personal-web/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon1.svg": "/personal-web/static/media/nav-icon1.1c84825285a4f9339fd385f985784504.svg",
+    "static/media/nav-icon2.svg": "/personal-web/static/media/nav-icon2.88ee2e425b2377cdb847da251e7dabee.svg",
+    "static/media/nav-icon3.svg": "/personal-web/static/media/nav-icon3.822de997502d480f4189a678926bfa7e.svg",
+    "index.html": "/personal-web/index.html",
+    "main.81f14e7d.css.map": "/personal-web/static/css/main.81f14e7d.css.map",
+    "main.b9054af9.js.map": "/personal-web/static/js/main.b9054af9.js.map",
+    "787.5d2b1d77.chunk.js.map": "/personal-web/static/js/787.5d2b1d77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81f14e7d.css",
+    "static/js/main.b9054af9.js"
+  ]
+}
